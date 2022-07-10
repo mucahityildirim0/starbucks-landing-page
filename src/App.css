@@ -2,8 +2,8 @@
 
 :root {
   --color-primary: #006241;
-  --color-secondary:#d50032
-  --color-extra:#d4e9e2
+  --color-secondary: #d50032;
+  --color-extra: #d4e9e2;
 }
 
 * {
@@ -12,8 +12,9 @@
   padding: 0;
 }
 
-html, body {
-  font-family: 'Open Sans', sans-serif;
+html,
+body {
+  font-family: "Open Sans", sans-serif;
   line-height: 1.4;
   color: #000;
 }
@@ -35,3 +36,6 @@ img {
   max-width: 100%;
 }
 
+section a {
+  color: #fff;
+}
